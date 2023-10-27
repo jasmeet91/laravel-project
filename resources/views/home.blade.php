@@ -1,1 +1,1 @@
-<h1>devloper team project</h1>
+<h1>home page</h1>
