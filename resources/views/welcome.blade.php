@@ -7,6 +7,6 @@
     <title>laravel-project</title>
 </head>
 <body>
-     <h1>hello world</h1>
+     <h1>hello subham</h1>
 </body>
 </html>
